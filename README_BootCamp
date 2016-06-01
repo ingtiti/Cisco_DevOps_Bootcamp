@@ -1,0 +1,2 @@
+Fecha: 01-06-2016
+El proyecto tiene como objetivo la creación de una interfaz que permita al operador del NOC la creación de interfaces VLAN en switches utilizando menus y utilizando como inputs de su conocimiento como son el ID del sitio, el ID del Switch y la VLAN ID/nombre. El programa deberá obtener la información a partir de una base de datos en MySQL.
