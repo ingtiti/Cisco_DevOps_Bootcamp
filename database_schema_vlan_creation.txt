@@ -1,0 +1,13 @@
+use db_clientes
+#
+# Estructura para la DB para la consulta de sitios y equipos
+#
+CREATE TABLE CLIENTE-XYZ (
+  sitio varchar(255) NOT NULL default '',
+  switch varchar(255) NOT NULL default '',
+  direccion_ip varchar(255) NOT NULL default '',
+  usuario varchar(255) NOT NULL default '',
+  password varchar(255) NOT NULL default '',
+  PRIMARY KEY  (sitio),
+  KEY username (sitio)
+) COMMENT='Directorio de sitios, equipos y direcciones ip';
