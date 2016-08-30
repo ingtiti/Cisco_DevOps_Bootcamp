@@ -12,3 +12,4 @@ numB = int(input("Valor de B: "))
 print("resultado de A + B : ", numA+numB )
 
 #Agregar la resta
+print("resultado de A - B : ", numA-numB )
