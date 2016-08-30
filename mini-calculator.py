@@ -15,3 +15,5 @@ print("resultado de A + B : ", numA+numB )
 print("resultado de A - B : ", numA-numB )
 
 #comentaraio adicional
+
+#Comentario de BETO
